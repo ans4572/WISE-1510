@@ -1,0 +1,8 @@
+jinja2
+pyyaml
+mbed_ls
+mbed_host_tests
+mbed_greentea
+fuzzywuzzy
+pyelftools
+jsonschema
